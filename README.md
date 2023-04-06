@@ -8,4 +8,3 @@ In order to realise this project, we had to follow a multitude of instructions h
 You will also find in this repository our project report, explaining everything about this project : how each component works and has been added to the project, visual representations of our PCB card in 3D with Altium, and more. (only available in French)  
   
 This projet being an embedded systems project, the program will not do anything alone. You can always try to recreate our system by yourself with the help of our project report though !
-
